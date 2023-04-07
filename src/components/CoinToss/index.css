@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.h1 {
+  color: #a35200;
+  font-size: 28px;
+}
+.p1 {
+  color: #334155;
+  font-size: 23px;
+}
+.btn {
+  background-color: #e2a139;
+  color: #a35200;
+  border-width: 0px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.c {
+  color: #475569;
+  display: flex;
+}
+p {
+  padding: 5px;
+}
+.img {
+  width: 320px;
+}
